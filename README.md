@@ -15,7 +15,7 @@ big data processing:
 
 ![alt text](https://github.com/Oprishri/Hadoop/blob/main/Hadoop%20ecosystem.PNG)
 
-<b> <font size= 7> 'Table of contents' </font> </b>
+<b> <font size= 7> Table of Content </font> </b>
 
 **Table of contents**
     
