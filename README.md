@@ -14,3 +14,14 @@ big data processing:
     - Oozie manages the workflow of Hadoop tasks
 
 ![alt text](https://github.com/Oprishri/Hadoop/blob/main/Hadoop%20ecosystem.PNG)
+
+
+- Table of contents
+    
+    On single node hadoop.
+    
+   - Word Count Practical
+   - Trending Word Count
+   - Database Join
+   - Vector Multiplication
+   - Matrix Multiplication
