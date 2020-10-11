@@ -15,7 +15,7 @@ big data processing:
 
 ![alt text](https://github.com/Oprishri/Hadoop/blob/main/Hadoop%20ecosystem.PNG)
 
-**Table of content**
+## Table of Content
     
     On single node hadoop.
     
