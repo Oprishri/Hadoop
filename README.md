@@ -14,11 +14,6 @@ big data processing:
     - Oozie manages the workflow of Hadoop tasks
 
 ![alt text](https://github.com/Oprishri/Hadoop/blob/main/Hadoop%20ecosystem.PNG)
-element {
-  font-size: 75;
-}
-
-<b class = element>This is a paragraph.</b>
 
 **Table of contents**
     
