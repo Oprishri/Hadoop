@@ -1,3 +1,6 @@
 # Hadoop Practicals
 
-![alt text](https://github.com/Oprishri/Machine-Learning-Algorithms-Scratch/blob/main/linear-regression-plot.jpg)
+Hadoop is a framework that allows distributed processing of large datasets across
+clusters of computers using simple programming models.
+
+![alt text](https://github.com/Oprishri/Hadoop/blob/main/Hadoop%20ecosystem.PNG)
